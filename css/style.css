@@ -114,7 +114,6 @@ a:hover {
 /* ---------- Game Cards ---------- */
 .game-card {
   background: #1a1a1a;
-  border: 1px solid #2a2a2a;
   border-radius: 12px;
   overflow: hidden;
   margin-bottom: 24px;
@@ -124,7 +123,7 @@ a:hover {
 
 .game-card:hover {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-  border-color: #3a3a3a;
+  border-color: #FFD54F;
 }
 
 /* ---------- Card Image ---------- */
@@ -271,7 +270,7 @@ a:hover {
 }
 
 /* ---------- Featured Card ---------- */
-.game-card.featured {
+.game-card {
   border: 2px solid #E8B730;
 }
 
